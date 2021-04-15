@@ -1,0 +1,9 @@
+W32LIB_Stack = -200, 95, 425, 486, 
+HtmlStrip = 0, 0, 270, 218, 
+Lc2kSupport1 = 132, 138, 463, 471, 
+Lc2kRunModule = 0, 218, 270, 436, 
+Wnd = 18, 17, 426, 322, , 66, 66, 474, 371, C
+FSD = 270, 0, 540, 145, 
+Lc2kInternetPageSupport = 0, 0, 506, 500, 
+Lc2kSupport2 = 136, 306, 406, 451, 
+ModCMLchecking = 110, 110, 482, 456, 
